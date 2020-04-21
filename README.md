@@ -1,3 +1,4 @@
 # stepik---auto-tests-course
 stepik - auto tests course
-now i start to lern git
+now i start to lern git 
+why
